@@ -14,6 +14,11 @@
 background-image: url(/home/immanuel/Documents/AnitasK/mpft-ip/ip2/assets/foodtop/breakfast.jpg);
 color: white;
 text-align: center;
+<<<<<<< HEAD
+=======
+padding-right: 30px;
+padding-left: 50px;
+>>>>>>> master
 padding-top: 85px;
 padding-bottom: 85px;
 background-attachment:fixed;
@@ -53,6 +58,13 @@ background-position: center;
   background-image: url(/home/immanuel/Documents/AnitasK/mpft-ip/ip2/assets/backgrounds/subscribe.jpg);
   color: white;
   text-align: center;
+<<<<<<< HEAD
+=======
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-right: 100px;
+  padding-left: 100px;
+>>>>>>> master
   font-style: oblique;
   background-attachment:fixed;
   font-family:sans-serif;
@@ -61,24 +73,23 @@ background-position: center;
   padding-top: 75px;
   padding-bottom: 75px;
 }
-#menu
+#Menu
 {
-background-color: orange;
+background-color: #F15A29;
 text-align: center;
-padding-bottom: 100px;
+padding-bottom: 20px;
 padding-top: 100px;
+padding-left: 400px;
 background-size: cover;
 background-attachment:fixed;
 background-position: center;
-}
-.test-viewBox
-{
-  border: 2px;
+color: white;
 }
 .cnt
 {
   background-color: white;
 }
+<<<<<<< HEAD
 #Menu
 {
 background-color:  #F15A29;
@@ -113,4 +124,119 @@ background-color: #F15A29;
 {
   background-color: gray;
   font-size: 20px;
+=======
+#boyd
+{
+  box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.75);
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 100px;
+  box-sizing: border-box;
+}
+#sub
+{
+  background-color: #F15A29;
+}
+#em
+{
+  background-color: gray;
+}
+#cus
+{
+  color: #F15A29;
+}
+#hap
+{
+  color: #F15A29;
+}
+#sav
+{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #F15A29;
+
+}
+#mar
+{
+text-align: right;
+}
+#lef
+{
+  margin-right: 50px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  text-align: left;
+}
+#bord
+{
+  margin-right: 50px;
+  margin-bottom: 100px;
+  margin-top: 10px;
+box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.75);
+box-sizing: border-box;
+}
+.card
+{
+  margin-left: 150px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.75);
+  box-sizing: border-box;
+}
+#snav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  text-align:center;
+}
+#sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+
+}
+
+#snav a:hover{
+  color: #f1f1f1;
+}
+
+#snav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+.snav {padding-top: 15px;}
+.snav a {font-size: 18px;}
+}
+#snad
+{
+  float:center;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+#ye
+{
+  text-align: center;
+  background-color: lightgray;
+  padding-top: 30px;
+  padding-bottom: 30px;
+>>>>>>> master
 }
