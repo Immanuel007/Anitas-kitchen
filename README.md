@@ -1,4 +1,4 @@
-# title
+# Title
 Anita's Kitchen
 ## Author
 Immanuel Saina
