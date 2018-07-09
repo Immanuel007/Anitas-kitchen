@@ -49,9 +49,6 @@ background-position: center;
   background-image: url(/home/immanuel/Documents/AnitasK/mpft-ip/ip2/assets/backgrounds/subscribe.jpg);
   color: white;
   text-align: center;
-  padding-top: 100px;
-  padding-bottom: 100px;
-  padding-right: 500px;
   font-style: oblique;
   background-attachment:fixed;
   font-family:sans-serif;
@@ -75,4 +72,14 @@ background-position: center;
 .cnt
 {
   background-color: white;
+}
+#Menu
+{
+background-color:  #F15A29;
+text-align: center;
+color: white;
+}
+#Party
+{
+background-color:  #F15A29;
 }
