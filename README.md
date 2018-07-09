@@ -4,12 +4,13 @@ Anita's Kitchen
 Immanuel Saina
 ## Description
 This project is about advertising Anita's business to the open market where the best foods are served and has many branches all over the country
+Here is a link of the web page:file:///home/immanuel/Documents/AnitasK/index.html#
 ## Requirements
 One needs to use bootstra,To use css and also HTML. These will help you to create and design this webpage for her.
 ## Bugs
 Small errors like absence of divs and also brackets.
 <<<<<<< HEAD
-## License
+## LICENSE
 =======
 ## LICENSE
 >>>>>>> master
