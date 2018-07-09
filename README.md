@@ -8,7 +8,7 @@ This project is about advertising Anita's business to the open market where the 
 One needs to use bootstra,To use css and also HTML. These will help you to create and design this webpage for her.
 ## Bugs
 Small errors like absence of divs and also brackets.
-##LICENSE
+## License
 Copyright <Year:2018> <COPYRIGHT HOLDER: Immanuel Saina Barboi>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
