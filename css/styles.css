@@ -1,6 +1,6 @@
 #image
 {
-  background-image: url(/home/immanuel/Documents/AnitasK/mpft-ip/ip2/assets/backgrounds/landing.jpg);
+  background-image: url(../img/landing.jpg);
   text-align: center;
   font-family:sans-serif;
   color: white;
@@ -11,7 +11,7 @@
 }
 #Breakfast
 {
-background-image: url(/home/immanuel/Documents/AnitasK/mpft-ip/ip2/assets/foodtop/breakfast.jpg);
+background-image: url(../img/breakfast.jpg);
 color: white;
 text-align: center;
 padding-right: 30px;
@@ -22,7 +22,7 @@ background-attachment:fixed;
 }
 #Lunch
 {
-  background-image: url(/home/immanuel/Documents/AnitasK/mpft-ip/ip2/assets/foodtop/lunch.jpg);
+  background-image: url(../img/lunch.jpg);
   color: white;
   text-align: center;
   padding-top: 85px;
@@ -31,7 +31,7 @@ background-attachment:fixed;
 }
 #Dinner
 {
-  background-image: url(/home/immanuel/Documents/AnitasK/mpft-ip/ip2/assets/foodtop/dinner.jpg);
+  background-image: url(../img/dinner.jpg);
   color: white;
   text-align: center;
   padding-top: 85px;
@@ -46,7 +46,7 @@ background-attachment:fixed;
 }
 #Food
 {
-background-image: url(/home/immanuel/Documents/AnitasK/mpft-ip/ip2/assets/backgrounds/foodsBg.jpg);
+background-image: url(../img/foodsBg.jpg);
 text-align: center;
 padding-bottom: 100px;
 padding-top: 100px;
@@ -58,7 +58,7 @@ background-position: center;
 }
 #DailyFoods
 {
-  background-image: url(/home/immanuel/Documents/AnitasK/mpft-ip/ip2/assets/backgrounds/subscribe.jpg);
+  background-image: url(../img/subscribe.jpg);
   color: white;
   text-align: center;
   font-style: oblique;
