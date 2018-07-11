@@ -14,11 +14,8 @@
 background-image: url(/home/immanuel/Documents/AnitasK/mpft-ip/ip2/assets/foodtop/breakfast.jpg);
 color: white;
 text-align: center;
-<<<<<<< HEAD
-=======
 padding-right: 30px;
 padding-left: 50px;
->>>>>>> master
 padding-top: 85px;
 padding-bottom: 85px;
 background-attachment:fixed;
@@ -41,6 +38,12 @@ background-attachment:fixed;
   padding-bottom: 85px;
   background-attachment:fixed;
 }
+#Lunch:hover,
+#breakfast:hover,
+#dinner:hover
+{
+  opacity: 0.6;
+}
 #Food
 {
 background-image: url(/home/immanuel/Documents/AnitasK/mpft-ip/ip2/assets/backgrounds/foodsBg.jpg);
@@ -58,13 +61,6 @@ background-position: center;
   background-image: url(/home/immanuel/Documents/AnitasK/mpft-ip/ip2/assets/backgrounds/subscribe.jpg);
   color: white;
   text-align: center;
-<<<<<<< HEAD
-=======
-  padding-top: 100px;
-  padding-bottom: 100px;
-  padding-right: 100px;
-  padding-left: 100px;
->>>>>>> master
   font-style: oblique;
   background-attachment:fixed;
   font-family:sans-serif;
@@ -77,29 +73,21 @@ background-position: center;
 {
 background-color: #F15A29;
 text-align: center;
-padding-bottom: 20px;
-padding-top: 100px;
-padding-left: 400px;
-background-size: cover;
-background-attachment:fixed;
-background-position: center;
-color: white;
+color:white;
 }
 .cnt
 {
   background-color: white;
 }
-<<<<<<< HEAD
-#Menu
-{
-background-color:  #F15A29;
-text-align: center;
-color: white;
-}
 #Party
 {
+padding-left: 70px;
+padding-right: 70px;
+padding-bottom: 35px;
+padding-top: 20px;
 background-color:  #F15A29;
 font-size: 50px;
+color: white;
 }
 #color
 {
@@ -107,24 +95,15 @@ color:  white;
 font-size: 30px;
 background-color: #F15A29;
 }
-#im
-{
-  color:  #F15A29;
-}
 #k
 {
   font-size: 60px;
-}
-#sa
-{
-  border-radius: 10px;
-  border-bottom: 20px;
 }
 #pi
 {
   background-color: gray;
   font-size: 20px;
-=======
+}
 #boyd
 {
   box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.75);
@@ -137,10 +116,6 @@ background-color: #F15A29;
 #sub
 {
   background-color: #F15A29;
-}
-#em
-{
-  background-color: gray;
 }
 #cus
 {
@@ -158,7 +133,7 @@ background-color: #F15A29;
   background-color: #F15A29;
 
 }
-#mar
+#march
 {
 text-align: right;
 }
@@ -169,15 +144,7 @@ text-align: right;
   margin-top: 50px;
   text-align: left;
 }
-#bord
-{
-  margin-right: 50px;
-  margin-bottom: 100px;
-  margin-top: 10px;
-box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.75);
-box-sizing: border-box;
-}
-.card
+.cards
 {
   margin-left: 150px;
   margin-bottom: 50px;
@@ -185,7 +152,8 @@ box-sizing: border-box;
   box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.75);
   box-sizing: border-box;
 }
-#snav {
+#snav
+{
   height: 100%;
   width: 0;
   position: fixed;
@@ -205,10 +173,9 @@ box-sizing: border-box;
   color: #818181;
   display: block;
   transition: 0.3s;
-
 }
-
-#snav a:hover{
+#snav a:hover
+{
   color: #f1f1f1;
 }
 
@@ -238,5 +205,17 @@ box-sizing: border-box;
   background-color: lightgray;
   padding-top: 30px;
   padding-bottom: 30px;
->>>>>>> master
+}
+.some
+{
+color: #F15A29
+}
+#gray
+{
+  padding-left: 60px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background-color: gray;
+  color: white;
 }
