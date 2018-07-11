@@ -63,9 +63,9 @@ background-position: center;
   text-align: center;
   font-style: oblique;
   background-attachment:fixed;
+  font-size: 30px;
   font-family:sans-serif;
   background-position: center;
-  background-size: cover;
   padding-top: 75px;
   padding-bottom: 75px;
 }
@@ -144,7 +144,7 @@ text-align: right;
   margin-top: 50px;
   text-align: left;
 }
-.cards
+.card
 {
   margin-left: 150px;
   margin-bottom: 50px;
@@ -219,3 +219,15 @@ color: #F15A29
   background-color: gray;
   color: white;
 }
+.formButton
+{
+  background-color: #F15A29;
+}
+#margin
+{
+  margin-left: 150px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.75);
+  box-sizing: border-box;
+  }
