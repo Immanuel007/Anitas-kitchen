@@ -234,3 +234,14 @@ color: #F15A29
   box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.75);
   box-sizing: border-box;
   }
+.margi
+{
+  margin-left: 100px;
+  margin-bottom: 20px;
+  margin-top: 25px;
+  margin-right: 25px;
+  box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.75);
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: center;
+  }}
