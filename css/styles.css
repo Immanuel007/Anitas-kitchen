@@ -55,6 +55,7 @@ padding-left: 100px;
 background-attachment:fixed;
 background-size: cover;
 background-position: center;
+
 }
 #DailyFoods
 {
@@ -211,7 +212,7 @@ text-align: right;
 }
 .some
 {
-color: #F15A29
+color: #F15A29;
 }
 #gray
 {
@@ -224,7 +225,9 @@ color: #F15A29
 }
 .formButton
 {
-  background-color: #F15A29;
+  background-color: white;
+  color: #F15A29;
+  font-size: 30px;
 }
 #margin
 {
@@ -244,4 +247,8 @@ color: #F15A29
   box-sizing: border-box;
   padding: 10px;
   text-align: center;
-  }}
+  }
+.formbutton
+{
+  background-color: #F15A29;
+}
