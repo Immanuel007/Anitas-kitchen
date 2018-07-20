@@ -252,3 +252,15 @@ color: #F15A29;
 {
   background-color: #F15A29;
 }
+.active
+{
+  width:100px;
+}
+ul li
+{
+  width:346px;
+  background-color: lightgray;
+  color: #F15A29;
+  float: left;
+  opacity: .8px;
+}
